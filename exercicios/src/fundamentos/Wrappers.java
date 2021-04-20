@@ -24,7 +24,6 @@ public class Wrappers {
         //double
         Double d = 4321.2449;
 
-
         System.out.println(b.byteValue());
         System.out.println(s.toString());
         System.out.println(i.toString());

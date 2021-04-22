@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.operadores;
 
 public class Aritmeticos {
 
@@ -20,7 +20,7 @@ public class Aritmeticos {
         System.out.println(a + b);
         System.out.println(a - b);
         System.out.println(a * b);
-        System.out.println(a / b);
+        System.out.println(a / b); 
         System.out.println(a / (double) b); // CAST
 
         System.out.println(a % 3);

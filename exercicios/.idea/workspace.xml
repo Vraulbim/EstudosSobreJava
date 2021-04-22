@@ -21,6 +21,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1r55nkqDjbX58qcc39ooDYUVrA4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -68,7 +76,7 @@
       </method>
     </configuration>
     <configuration name="DesafioAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.DesafioAritmeticos" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.DesafioAritmeticos" />
       <module name="exercicios" />
       <extension name="coverage">
         <pattern>
@@ -106,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.DesafioAritmeticos" />
@@ -133,6 +154,7 @@
       <workItem from="1618421139290" duration="7934000" />
       <workItem from="1618851592898" duration="7041000" />
       <workItem from="1618934547598" duration="6384000" />
+      <workItem from="1619110588213" duration="4426000" />
     </task>
     <task id="LOCAL-00001" summary="Parte 2">
       <created>1618419798411</created>
